@@ -20,7 +20,7 @@ class Dog
     @breed
   end
 
-  if breed == nil
+  if "breed" == nil
     "Mutt"
   end
 end
